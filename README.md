@@ -29,6 +29,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
   - Manipulação do DOM
   - Introdução ao Firebase
   - Integração com o Firebase
+  ## <a href="https://eladaniela.github.io/semana-frontend-mundo-invertido/">Veja o Site</a>
   ## 🌎 Redes sociais
   <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/107593929?v=4"
